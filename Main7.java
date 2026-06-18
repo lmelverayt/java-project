@@ -45,7 +45,7 @@ class Motorcycle extends Vehicle {
 
 public class Main7 {
     public static void main(String[] args) {
-        // Создаем объект Car
+
         Car car = new Car("Toyota", 2020, 4);
         car.start();
         
